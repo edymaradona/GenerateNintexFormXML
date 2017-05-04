@@ -1,0 +1,81 @@
+<FormControls xmlns:d2p1="http://schemas.datacontract.org/2004/07/Nintex.Forms.FormControls" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <d2p1:FormControlProperties i:type="d2p1:TextBoxFormControlProperties">
+      <d2p1:Border />
+      <d2p1:BorderColor>#000000</d2p1:BorderColor>
+      <d2p1:BorderStyle>Solid</d2p1:BorderStyle>
+      <d2p1:BorderWidth>2</d2p1:BorderWidth>
+      <d2p1:CanResizeAtRuntime>false</d2p1:CanResizeAtRuntime>
+      <d2p1:ControlVersion>101.1.1.0</d2p1:ControlVersion>
+      <d2p1:CssClass i:nil="true" />
+      <d2p1:DisplayName>Blank</d2p1:DisplayName>
+      <d2p1:FormControlTypeUniqueId>c0a89c70-0781-4bd4-8623-f73675005e05</d2p1:FormControlTypeUniqueId>
+      <d2p1:FormType>ListForm</d2p1:FormType>
+      <d2p1:InRepeater>false</d2p1:InRepeater>
+      <d2p1:InsertReferences xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <d2p1:InternalPropertyBag xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <d2p1:IsControlWidthFixedToCanvasWidth>false</d2p1:IsControlWidthFixedToCanvasWidth>
+      <d2p1:IsDirty>false</d2p1:IsDirty>
+      <d2p1:IsLocked>false</d2p1:IsLocked>
+      <d2p1:IsNotSupportAssociatedControlForLabel>false</d2p1:IsNotSupportAssociatedControlForLabel>
+      <d2p1:IsNotSupportRules>false</d2p1:IsNotSupportRules>
+      <d2p1:IsVisible>true</d2p1:IsVisible>
+      <d2p1:PaddingWidth>0</d2p1:PaddingWidth>
+      <d2p1:TabIndex>0</d2p1:TabIndex>
+      <d2p1:UniqueId>5c51c457-2831-420e-9b03-6e15ca0b4e19</d2p1:UniqueId>
+      <d2p1:VariableSource>SharePoint</d2p1:VariableSource>
+      <d2p1:VerticalAlign>NotSet</d2p1:VerticalAlign>
+      <d2p1:BackgroundColor i:nil="true" />
+      <d2p1:Bold>false</d2p1:Bold>
+      <d2p1:FontColor i:nil="true" />
+      <d2p1:FontFamily i:nil="true" />
+      <d2p1:FontFamilyItemId i:nil="true" />
+      <d2p1:FontSize i:nil="true" />
+      <d2p1:FontSizeItemId i:nil="true" />
+      <d2p1:HorizontalAlignment>NotSet</d2p1:HorizontalAlignment>
+      <d2p1:Italics>false</d2p1:Italics>
+      <d2p1:StrikeThrough>false</d2p1:StrikeThrough>
+      <d2p1:ThemeClass i:nil="true" />
+      <d2p1:Underline>false</d2p1:Underline>
+      <d2p1:ControlCssClass i:nil="true" />
+      <d2p1:ControlMode>Auto</d2p1:ControlMode>
+      <d2p1:CustomErrorMessage i:nil="true" />
+      <d2p1:CustomValidationFunction i:nil="true" />
+      <d2p1:DataField></d2p1:DataField>
+      <d2p1:DataFieldDisplayName></d2p1:DataFieldDisplayName>
+      <d2p1:ExposeClientIdAsJavascriptVariable>false</d2p1:ExposeClientIdAsJavascriptVariable>
+      <d2p1:ExposedClientIdJavascriptVariable i:nil="true" />
+      <d2p1:HelpText></d2p1:HelpText>
+      <d2p1:HelpTextSet></d2p1:HelpTextSet>
+      <d2p1:IsEnabled>true</d2p1:IsEnabled>
+      <d2p1:IsRequired>true</d2p1:IsRequired>
+      <d2p1:Name>Title</d2p1:Name>
+      <d2p1:RequiredErrorMessage i:nil="true" />
+      <d2p1:UseCustomValidation>false</d2p1:UseCustomValidation>
+      <d2p1:ApplyFormatInEditMode>false</d2p1:ApplyFormatInEditMode>
+      <d2p1:ConvertEmptyStringToNull>false</d2p1:ConvertEmptyStringToNull>
+      <d2p1:DataFormatString i:nil="true" />
+      <d2p1:HtmlEncodeFormatString>false</d2p1:HtmlEncodeFormatString>
+      <d2p1:NullDisplayText i:nil="true" />
+      <d2p1:Barcode>false</d2p1:Barcode>
+      <d2p1:CompareErrorMessage i:nil="true" />
+      <d2p1:CompareOperator>DataTypeCheck</d2p1:CompareOperator>
+      <d2p1:CompareTo>None</d2p1:CompareTo>
+      <d2p1:ControlToCompare i:nil="true" />
+      <d2p1:DataType>String</d2p1:DataType>
+      <d2p1:DefaultValue i:nil="true" />
+      <d2p1:DefaultValueSource>Inherit</d2p1:DefaultValueSource>
+      <d2p1:IsPassword>false</d2p1:IsPassword>
+      <d2p1:Lcid i:nil="true" />
+      <d2p1:MaxLength>255</d2p1:MaxLength>
+      <d2p1:MaximumValue i:nil="true" />
+      <d2p1:MinimumValue i:nil="true" />
+      <d2p1:RangeErrorMessage i:nil="true" />
+      <d2p1:RegularExpression i:nil="true" />
+      <d2p1:RegularExpressionErrorMessage i:nil="true" />
+      <d2p1:ShowAsPercent>false</d2p1:ShowAsPercent>
+      <d2p1:UseCompareValidation>false</d2p1:UseCompareValidation>
+      <d2p1:UseRangeValidation>false</d2p1:UseRangeValidation>
+      <d2p1:UseRegularExpressionValidation>false</d2p1:UseRegularExpressionValidation>
+      <d2p1:ValueToCompare i:nil="true" />
+    </d2p1:FormControlProperties>
+</FormControls>
